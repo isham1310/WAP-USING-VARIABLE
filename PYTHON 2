@@ -1,0 +1,7 @@
+name = "mango"
+price = "450"
+numberofpiece = "12"
+
+print( "Fruit name is :",name)
+print( "Price of fruit is :",price)
+print( "no of piece we get is :",numberofpiece)
